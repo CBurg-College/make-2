@@ -1,6 +1,20 @@
-//#####################################
-// HOE SNEL BEN JIJ
-//#####################################
+/*
+File:      github.com/ETmbit/make-2.ts
+Copyright: ETmbit, 2026
+
+License:
+This file is part of the ETmbit extensions for MakeCode for micro:bit.
+It is free software and you may distribute it under the terms of the
+GNU General Public License (version 3 or later) as published by the
+Free Software Foundation. The full license text you find at
+https://www.gnu.org/licenses.
+
+Disclaimer:
+ETmbit extensions are distributed without any warranty.
+
+Dependencies:
+ETmbit/general, ETmbit/gamebuilder, ETmbit/buttonpad
+*/
 
 enum GameState {
     None,
